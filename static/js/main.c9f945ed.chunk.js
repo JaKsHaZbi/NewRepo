@@ -1,0 +1,2 @@
+(this.webpackJsonpnewrepo=this.webpackJsonpnewrepo||[]).push([[0],{11:function(e,n,t){"use strict";t.r(n);t(0);var c=t(3),o=t.n(c),r=(t(8),t(9),t(1));var s=function(){return Object(r.jsx)("h1",{className:"App",children:"Hello victor"})};o.a.render(Object(r.jsx)(s,{}),document.getElementById("root"))},8:function(e,n,t){},9:function(e,n,t){}},[[11,1,2]]]);
+//# sourceMappingURL=main.c9f945ed.chunk.js.map

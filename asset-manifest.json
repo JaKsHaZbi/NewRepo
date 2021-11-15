@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/JaKsHaZbi/NewRepo/static/css/main.106baaae.chunk.css",
+    "main.js": "/JaKsHaZbi/NewRepo/static/js/main.c9f945ed.chunk.js",
+    "main.js.map": "/JaKsHaZbi/NewRepo/static/js/main.c9f945ed.chunk.js.map",
+    "runtime-main.js": "/JaKsHaZbi/NewRepo/static/js/runtime-main.27476e46.js",
+    "runtime-main.js.map": "/JaKsHaZbi/NewRepo/static/js/runtime-main.27476e46.js.map",
+    "static/js/2.f4c8600c.chunk.js": "/JaKsHaZbi/NewRepo/static/js/2.f4c8600c.chunk.js",
+    "static/js/2.f4c8600c.chunk.js.map": "/JaKsHaZbi/NewRepo/static/js/2.f4c8600c.chunk.js.map",
+    "index.html": "/JaKsHaZbi/NewRepo/index.html",
+    "static/css/main.106baaae.chunk.css.map": "/JaKsHaZbi/NewRepo/static/css/main.106baaae.chunk.css.map",
+    "static/js/2.f4c8600c.chunk.js.LICENSE.txt": "/JaKsHaZbi/NewRepo/static/js/2.f4c8600c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27476e46.js",
+    "static/js/2.f4c8600c.chunk.js",
+    "static/css/main.106baaae.chunk.css",
+    "static/js/main.c9f945ed.chunk.js"
+  ]
+}
